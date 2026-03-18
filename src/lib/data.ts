@@ -102,7 +102,7 @@ export const RISK_RESULTS: RiskResult[] = [
   },
 ];
 
-// ── Offer Stack (Digital Starter $37) ──
+// ── Offer Stack (Digital Starter $44) ──
 export const OFFER_STACK: OfferStackItem[] = [
   {
     id: "ebook",
@@ -147,7 +147,7 @@ export const OFFER_STACK: OfferStackItem[] = [
 ];
 
 export const TOTAL_PERCEIVED_VALUE = "$247";
-export const DIGITAL_PRICE = 37;
+export const DIGITAL_PRICE = 44;
 export const COMPLETE_PRICE = 127;
 export const BUMP_PRICE = 40;
 export const WORKBOOK_PRICE = 19;
@@ -242,7 +242,7 @@ export const FAQS: FAQItem[] = [
   },
   {
     id: "worth",
-    question: "Why is this worth $37?",
+    question: "Why is this worth $44?",
     answer:
       "One bad clause in one contract can cost you thousands \u2014 sometimes hundreds of thousands. This book costs less than a single hour with most attorneys, and you\u2019ll use what you learn for the rest of your career.",
   },

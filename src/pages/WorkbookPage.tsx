@@ -26,7 +26,7 @@ const workbookFAQs = [
     id: "need-book",
     question: "Do I need the book first?",
     answer:
-      "Not required. The workbook is valuable on its own. But if you want the complete educational experience — the stories, frameworks, and deeper context — the Digital Starter bundle includes both for $37.",
+      "Not required. The workbook is valuable on its own. But if you want the complete educational experience — the stories, frameworks, and deeper context — the Digital Starter bundle includes both for $44.",
   },
   {
     id: "instant",
